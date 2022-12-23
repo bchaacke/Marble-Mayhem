@@ -1,4 +1,4 @@
-//Samuel  Hiebert, Brian Haacke, Luke Dutson. 8 February 2021, Final Project
+//Brian Haacke 8 February 2021, Final Project
 
 import processing.sound.*;
 boolean left1, right1, up1, down1, left2, right2, up2, down2, doubleJump1, doubleJump2, colliding;
